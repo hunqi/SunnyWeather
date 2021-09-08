@@ -18,8 +18,3 @@
     code：101190408合成太仓天气信息地址：http://m.weather.com.cn/data/101190408.html
     下面贴一段PHP代码实现的，通过XML接口根节点递归获得全国几千个县以上城市cide code的代码，供参考(可直接在终端下运行）：
 方法二：一次性获取全国+国外主要城市，8763个城市列表信息。URL：http://mobile.weather.com.cn/js/citylist.xml
-
-作者：DROP_DATABASE
-链接：https://www.jianshu.com/p/e3e04cf3fc0f
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
